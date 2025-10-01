@@ -1,0 +1,7 @@
+warehouse-dev:
+  warehouses:
+    version: "1.0"
+    message: "Welcome to the Mini-WMS project! This is the development environment for product-related APIs."
+    contactDetails:
+      name: "Kaan Keskin - Developer"
+      email: "kaan@gmail.com"
